@@ -1,5 +1,13 @@
 # Deadline Guardian – Multi-Agent Productivity Assistant
 
+![Profile Image](https://avatars.githubusercontent.com/u/140265777?v=4)
+
+**Author:** T Mohamed Yaser
+
+- LinkedIn: https://www.linkedin.com/in/mohamedyaser08/
+- X: https://x.com/tmohamedyaser
+- Demo video: https://youtu.be/UsJGCvIqCKA
+
 ## 1. Overview
 Deadline Guardian is a multi-agent system that helps users plan tasks, break work into steps, and track progress using memory, tools, and agent loops.
 
