@@ -1,0 +1,10 @@
+# config.py
+# Loads API key safely without committing it
+
+import os
+
+def get_gemini_api_key():
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY environment variable not set.")
+    return api_key

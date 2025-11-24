@@ -1,0 +1,4 @@
+saved_tasks.json
+*.env
+.env
+__pycache__/
